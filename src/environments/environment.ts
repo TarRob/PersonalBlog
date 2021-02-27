@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  WORDPRESS_REST_URL: 'http://demo5683935.mockable.io/'
+  REST_URL: 'https://jsonplaceholder.typicode.com/'
 };
 
 /*
